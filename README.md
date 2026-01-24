@@ -1,7 +1,9 @@
-# AlgoLearn – Array Algorithm Visualizer
+# AlgoLearn – React Algorithm Visualizer
 
-AlgoLearn is a web-based interactive learning platform that helps students understand fundamental array algorithms through real-time visualization.
-Rather than relying on static code or textbook diagrams, users can step through algorithms visually and observe how each comparison, swap, and pointer movement occurs step by step.
+AlgoLearn is a web-based interactive learning tool designed to help students and beginners understand fundamental **array-based algorithms** through real-time visualization.
+Instead of relying on static code or textbook diagrams, AlgoLearn allows users to visually step through each algorithm and observe how comparisons, swaps, and pointer movements occur at every stage of execution.
+
+---
 
 ## 🔢 Algorithms Included
 - Bubble Sort
@@ -10,29 +12,47 @@ Rather than relying on static code or textbook diagrams, users can step through 
 - Linear Search
 - Binary Search
 
-## 🛠 Built With
-- React.js
-- JavaScript
-- HTML & CSS
-
-## ✨Features
-- Step-by-step visualization
-- User input and random arrays
-- Comparison highlighting
-- Clean dark UI
-- Complexity display after execution
-  
 ---
-## 🚀 Deployment on Vercel
 
-AlgoLearn is deployed on **Vercel**, leveraging its seamless integration with GitHub and optimized support for React applications.
+## ✨ Key Features
+- Step-by-step algorithm visualization
+- User-defined and randomly generated arrays
+- Visual highlighting of comparisons and swaps
+- Clean and distraction-free dark UI
+- Time complexity display after execution
+- Fully client-side (no backend or API required)
 
-The application is built using a production-optimized build process and served as static assets for improved performance and scalability.
+---
 
-**Deployment Details:**
-- Platform: Vercel  
-- Framework: Create React App  
-- Build Command: `npm run build`  
-- Output Directory: `build`
+## 🛠 Tech Stack
+- React.js
+- JavaScript (ES6+)
+- HTML5
+- CSS3
 
-🔗  **Live Demo:** https://algo-learn-bice.vercel.app
+---
+
+## 🎯 Intended Use
+This project is suitable for:
+- Students learning data structures and algorithms
+- Beginners preparing for coding interviews
+- Educators demonstrating algorithm behavior
+- Developers building educational platforms
+
+---
+
+## 📄 Project Notes
+- No backend or database is required
+- No third-party APIs or API keys are used
+- All algorithms are implemented manually in JavaScript
+- This project is intended for educational and learning purposes
+## 🚀 Live Demo
+🔗 https://algo-learn-bice.vercel.app
+
+---
+
+## 📦 Installation & Setup
+
+```bash
+npm install
+npm start
