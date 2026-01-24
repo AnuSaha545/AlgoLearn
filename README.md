@@ -35,4 +35,4 @@ The application is built using a production-optimized build process and served a
 - Build Command: `npm run build`  
 - Output Directory: `build`
 
-🔗 **Live Demo:** <your-vercel-live-link>
+🔗 **Live Demo:** <algo-learn-bice.vercel.app>
