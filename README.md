@@ -22,3 +22,17 @@ Rather than relying on static code or textbook diagrams, users can step through 
 - Clean dark UI
 - Complexity display after execution
   
+---
+## 🚀 Deployment on Vercel
+
+AlgoLearn is deployed on **Vercel**, leveraging its seamless integration with GitHub and optimized support for React applications.
+
+The application is built using a production-optimized build process and served as static assets for improved performance and scalability.
+
+**Deployment Details:**
+- Platform: Vercel  
+- Framework: Create React App  
+- Build Command: `npm run build`  
+- Output Directory: `build`
+
+🔗 **Live Demo:** <your-vercel-live-link>
